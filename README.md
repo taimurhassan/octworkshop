@@ -1,4 +1,3 @@
-## 1. Abstract
 <p align="justify">
 Optical Coherence Tomography (OCT) is a well-established technique for retinal diagnostics, now expanding into non-ophthalmological fields such as dermatology, oncology, mucosal tissue diagnostics and more. OCT boasts mesoscopic resolution, implying that the resolution volume encompasses only a few cells. It also offers a deeper penetration depth (approximately a few millimeters) compared to microscopy, effectively bridging the gap between ultrasound and microscopy.
 The OCT signal features are highly sensitive to the properties of sub-resolved optical scatterers. For example, speckle pattern parameters correlate with scatterer concentrations and scatterer clustering, while speckle variance is sensitive to scatterer motion, such as blood flow, among other features. Moreover, OCT can be made sensitive to optical phase and polarization. These features are enhanced by enabling AI.
