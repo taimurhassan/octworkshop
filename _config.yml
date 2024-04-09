@@ -1,5 +1,4 @@
 theme: jekyll-theme-Cayman
 markdown: GFM
-include:false transitions:
-title: Analysis of Optical Coherence Tomography Signals and Images: From Signal Formation to Practical Applications
+title: Analysis of OCT Signals and Images From Signal Formation to Practical Applications
 description: IEEE International Conference on Image Processing 2024 (ICIP-2024)
