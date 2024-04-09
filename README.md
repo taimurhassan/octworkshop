@@ -15,7 +15,15 @@ Full-Day Workshop (6 hours)
 - AI enablement in OCT (e.g., models, training, prompting, case studies and more)
 - Functional imaging, practical implementations, and clinical applications (e.g., skin, cancer, bones, dentistry, endoscopy, women health and more)
 
-## 4. Workshop Organizers:
+## 4. Important Dates:
+- Paper Submission Deadline: **April 25, 2024**
+- Paper Acceptance Notification: **June 6, 2024**
+- Final Paper Submission Deadline: **June 19, 2024**
+- Author Registration Deadline: **July 11, 2024**
+
+The papers MUST be submitted through ICIP 2024 paper management system, and will undergo the review process like the regular paper submissions. The manuscripts accepted in this workshop will be published on IEEEXplore upon oral presentation.
+
+## 5. Workshop Organizers:
 <h2>
 Taimur Hassan, Abu Dhabi University, UAE 
 <img src="/octworkshop/images/taimur.png" align="right" style="padding: 10px 10px 10px 10px; height: 150px; width:150px;"/>
