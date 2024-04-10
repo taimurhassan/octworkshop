@@ -21,7 +21,7 @@ Full-Day Workshop (6 hours)
 - Final Paper Submission Deadline: **June 19, 2024**
 - Author Registration Deadline: **July 11, 2024**
 
-The papers MUST be submitted through ICIP 2024 paper management system, and will undergo the review process like the regular paper submissions. The manuscripts accepted in this workshop will be published on IEEE Xplore upon oral presentation.
+The papers MUST be submitted through [ICIP 2024 paper management system](https://cmsworkshops.com/ICIP2024/papers.php), and will undergo the review process like the regular paper submissions. The manuscripts accepted in this workshop will be published on IEEE Xplore upon oral presentation.
 
 ## 5. Workshop Organizers:
 <h2>
