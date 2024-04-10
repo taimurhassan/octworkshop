@@ -16,7 +16,7 @@ Full-Day Workshop (6 hours)
 - Functional imaging, practical implementations, and clinical applications (e.g., skin, cancer, bones, dentistry, endoscopy, women health and more)
 
 ## 4. Important Dates:
-- Paper Submission Deadline: **April 25, 2024**
+- Paper Submission Deadline: **May 9, 2024**
 - Paper Acceptance Notification: **June 6, 2024**
 - Final Paper Submission Deadline: **June 19, 2024**
 - Author Registration Deadline: **July 11, 2024**
