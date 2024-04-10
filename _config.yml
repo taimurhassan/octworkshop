@@ -1,5 +1,5 @@
 theme: jekyll-theme-Cayman
-github: is_project_page: false
+is_project_page: false
 markdown: GFM
 title: "Analysis of OCT Signals and Images: From Signal Formation to Practical Applications"
 description: IEEE International Conference on Image Processing 2024 (ICIP-2024)
