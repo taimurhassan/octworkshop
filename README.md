@@ -47,7 +47,7 @@ Dr. Naoufel Werghi received a Research Habilitation and PhD in Computer Vision f
 </p>
 
 <h2>
-Lev Matveev, Institute of Applied Physics, Russia 
+Lev Matveev, OpticElastograph LLC
 <img src="/octworkshop/images/lev.jpg" align="right" style="padding: 10px 10px 10px 10px; height: 150px; width:150px;"/>
 </h2> <p align="justify">
 Lev Matveev received his B.S. and M.S. degrees in Radiophysics from Nizhniy Novgorod State University in 2005 and 2007 respectively. He was also awarded a Ph.D. degree in Acoustics from the Institute of Applied Physics of the Russian Academy of Sciences in 2010. Since 2015 he is a Senior Research Scientist with the Institute of Applied Physics of the Russian Academy of Sciences. In 2023, he became a Co-founder and Chief Data Scientist at OpticElastograph LLC. For the 2023/2024 period, he is serving as a Researcher (contractor) within the Internal Research Grant at Ajman University. From 2013 to 2018, he also held a Research Scientist position at Privolzhy Medical Research University. His research interests include: the development of new signal and data processing and simulation approaches for medical imaging and non-destructive evaluation in optical coherence tomography, microscopy, and ultrasound; statistical machine learning for medical imaging and biomedical data processing, pre-clinical and clinical research. He has co-authored over 60 peer-reviewed journal articles, including over 20 in WoS Q1 journals, and more than 80 conference proceedings. </p>
